@@ -1,22 +1,22 @@
 # Atliq Product Sales Analysis
 
 ## Goal
-In this project, we analyzed data from AtliQ Hardware and analyzed the products.
-We have described the products and product categories that are the best selling. We also researched how the popularity of these products changed over time in different markets.
+In this project, we analyzed sales data from AtliQ Hardware to identify top-performing products and categories.  
+We also examined how product popularity changed over time across different markets.
 
-In addition, the hypothesis "sales in the 'India' region are significantly higher in each category than sales in the regions India and NA" was tested.
-India and NA are two of the most popular sub_zones.
+In addition, we tested the hypothesis:  
+**"Sales in the 'India' sub-zone are significantly higher in each category than in the 'NA' region."**
 
-## What we've done
-- looked at the number of sales for each product separately,
-- studied the relationship between the number of sales and revenue/profit,
-- assessed how the number of sales for each category of goods changed over time,
-- looked at the sales of each category separately in different 'sub_zones',
-- studied whether there is seasonality in sales during the year,
-- tested the hypothesis: "sales in the 'India' region are significantly higher in each category than sales in the regions India and 'NA'".
+## Analysis Steps
+- Analyzed sales volume for each product individually
+- Explored the relationship between sales, revenue, and profit
+- Assessed how sales trends changed over time by product category
+- Compared category sales across different sub-zones
+- Investigated seasonal patterns in annual sales
+- Performed hypothesis testing on regional sales differences
 
 ## Tools Used
-- Python (pandas, matplotlib, seaborn)
+- Python (pandas, matplotlib, seaborn, scipy.stats)
 - SQLite (local database)
 - Jupyter Notebook
 - Tableau (for additional visualization)
@@ -29,3 +29,9 @@ You can download it from [this Google Drive link]([https://your-link-here](https
 
 ## Notes
 This project was part of my final assignment during the TripleTen Data Analytics course. The dataset is fictional and provided for educational purposes.
+
+
+
+## Tableau-vizualizations
+- [Dashboard](https://public.tableau.com/views/FinalProjectDashboard_17448402073490/FinalDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- [Story](https://public.tableau.com/shared/PS2KYBF27?:display_count=n&:origin=viz_share_link)
