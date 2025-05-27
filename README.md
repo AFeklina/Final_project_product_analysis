@@ -22,7 +22,7 @@ In addition, we tested the hypothesis:
 - Tableau (for additional visualization)
 
 ## Files
-- `atliq_analysis.ipynb` — main analysis notebook
+- `Feklina_final_project.ipynb` — main analysis notebook
 - `atliq_db.sqlite3` — database used in the project
 Due to GitHub's file size limit, the SQLite database is not stored in this repository.   
 You can download it from [this Google Drive link](https://drive.google.com/file/d/1X-QTf7pSKfsDMPZCCa2oDrC6SbjHZb2t/view?usp=sharing) and place it in the project folder to run the analysis.
